@@ -36,6 +36,7 @@ La documentación de la API se encuentra disponible mediante **Swagger**.
 - Swagger (Documentación de API)
 - Render (Deploy del microservicio)
 - Postman (Pruebas de endpoints)
+- Word (Documentación solicitada no referente a la api)
 
 ---
 
