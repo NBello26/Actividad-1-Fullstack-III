@@ -46,7 +46,7 @@ La documentación de la API se encuentra disponible mediante **Swagger**.
 https://github.com/NBello26/Microservicios-Actividad-1-FullStack-III.git
 
 ### Repositorio Microservicio despliegue en docker local (Actividad 2)
-https://github.com/NBello26/Actividad-2-Desplegar-en-docker-local.git
+- En proceso
 
 ### API desplegada
 https://microservicios-actividad-1-fullstack-iii-1quf.onrender.com
